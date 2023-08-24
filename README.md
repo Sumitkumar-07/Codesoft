@@ -26,9 +26,9 @@ The goal is to learn and apply various machine learning algorithms and technique
 
 ## Datasets
 
-- Titanic Survival Prediction: [Link to Dataset](provide_dataset_link)
-- Credit Card Fraud Detection: [Link to Dataset](provide_dataset_link)
-- Iris Flower Classification: [Link to Dataset](provide_dataset_link)
+- Titanic Survival Prediction: [Link to Dataset](https://www.kaggle.com/datasets/brendan45774/test-file)
+- Credit Card Fraud Detection: [Link to Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Iris Flower Classification: [Link to Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
 Please download the datasets from the provided links to reproduce the results.
 
